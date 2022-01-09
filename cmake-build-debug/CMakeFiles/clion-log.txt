@@ -1,6 +1,6 @@
-/snap/clion/178/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shir/Documents/advenced_programing/ex6
--- The C compiler identification is GNU 9.3.0
--- The CXX compiler identification is GNU 9.3.0
+/snap/clion/178/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ohad/CLionProjects/check
+-- The C compiler identification is GNU 10.3.0
+-- The CXX compiler identification is GNU 10.3.0
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
 -- Check for working C compiler: /usr/bin/cc - skipped
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/shir/Documents/advenced_programing/ex6/cmake-build-debug
+-- Build files have been written to: /home/ohad/CLionProjects/check/cmake-build-debug

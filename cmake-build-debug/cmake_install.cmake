@@ -1,4 +1,4 @@
-# Install script for directory: /home/shir/Documents/advenced_programing/ex6
+# Install script for directory: /home/ohad/CLionProjects/check
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/shir/Documents/advenced_programing/ex6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ohad/CLionProjects/check/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

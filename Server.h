@@ -8,7 +8,6 @@
 #ifndef SERVER_H_
 #define SERVER_H_
 
-#include<signal.h>
 #include <thread>
 #include <sys/socket.h>
 #include "CLI.h"
@@ -19,7 +18,7 @@
 #include <pthread.h>
 #include <unistd.h>
 #include <sstream>
-#include <stdlib.h>
+#include <cstdlib>
 using namespace std;
 
 // edit your ClientHandler interface here:
@@ -87,12 +86,6 @@ public:
 	virtual ~Server();
 	void start(ClientHandler& ch)throw(const char*);
 	void stop();
-    static void signal_handler(int signal_num)
-    {
-        cout << "The interrupt signal is (" << signal_num
-             << "). \n";
-
-    }
 };
 
 #endif /* SERVER_H_ */

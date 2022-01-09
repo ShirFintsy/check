@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/shir/Documents/advenced_programing/ex6/CLI.cpp" "CMakeFiles/advEx6.dir/CLI.cpp.o" "gcc" "CMakeFiles/advEx6.dir/CLI.cpp.o.d"
-  "/home/shir/Documents/advenced_programing/ex6/HybridAnomalyDetector.cpp" "CMakeFiles/advEx6.dir/HybridAnomalyDetector.cpp.o" "gcc" "CMakeFiles/advEx6.dir/HybridAnomalyDetector.cpp.o.d"
-  "/home/shir/Documents/advenced_programing/ex6/MainTrain.cpp" "CMakeFiles/advEx6.dir/MainTrain.cpp.o" "gcc" "CMakeFiles/advEx6.dir/MainTrain.cpp.o.d"
-  "/home/shir/Documents/advenced_programing/ex6/Server.cpp" "CMakeFiles/advEx6.dir/Server.cpp.o" "gcc" "CMakeFiles/advEx6.dir/Server.cpp.o.d"
-  "/home/shir/Documents/advenced_programing/ex6/SimpleAnomalyDetector.cpp" "CMakeFiles/advEx6.dir/SimpleAnomalyDetector.cpp.o" "gcc" "CMakeFiles/advEx6.dir/SimpleAnomalyDetector.cpp.o.d"
-  "/home/shir/Documents/advenced_programing/ex6/anomaly_detection_util.cpp" "CMakeFiles/advEx6.dir/anomaly_detection_util.cpp.o" "gcc" "CMakeFiles/advEx6.dir/anomaly_detection_util.cpp.o.d"
-  "/home/shir/Documents/advenced_programing/ex6/minCircle.cpp" "CMakeFiles/advEx6.dir/minCircle.cpp.o" "gcc" "CMakeFiles/advEx6.dir/minCircle.cpp.o.d"
-  "/home/shir/Documents/advenced_programing/ex6/timeseries.cpp" "CMakeFiles/advEx6.dir/timeseries.cpp.o" "gcc" "CMakeFiles/advEx6.dir/timeseries.cpp.o.d"
+  "/home/ohad/CLionProjects/check/CLI.cpp" "CMakeFiles/advEx6.dir/CLI.cpp.o" "gcc" "CMakeFiles/advEx6.dir/CLI.cpp.o.d"
+  "/home/ohad/CLionProjects/check/HybridAnomalyDetector.cpp" "CMakeFiles/advEx6.dir/HybridAnomalyDetector.cpp.o" "gcc" "CMakeFiles/advEx6.dir/HybridAnomalyDetector.cpp.o.d"
+  "/home/ohad/CLionProjects/check/MainTrain.cpp" "CMakeFiles/advEx6.dir/MainTrain.cpp.o" "gcc" "CMakeFiles/advEx6.dir/MainTrain.cpp.o.d"
+  "/home/ohad/CLionProjects/check/Server.cpp" "CMakeFiles/advEx6.dir/Server.cpp.o" "gcc" "CMakeFiles/advEx6.dir/Server.cpp.o.d"
+  "/home/ohad/CLionProjects/check/SimpleAnomalyDetector.cpp" "CMakeFiles/advEx6.dir/SimpleAnomalyDetector.cpp.o" "gcc" "CMakeFiles/advEx6.dir/SimpleAnomalyDetector.cpp.o.d"
+  "/home/ohad/CLionProjects/check/anomaly_detection_util.cpp" "CMakeFiles/advEx6.dir/anomaly_detection_util.cpp.o" "gcc" "CMakeFiles/advEx6.dir/anomaly_detection_util.cpp.o.d"
+  "/home/ohad/CLionProjects/check/minCircle.cpp" "CMakeFiles/advEx6.dir/minCircle.cpp.o" "gcc" "CMakeFiles/advEx6.dir/minCircle.cpp.o.d"
+  "/home/ohad/CLionProjects/check/timeseries.cpp" "CMakeFiles/advEx6.dir/timeseries.cpp.o" "gcc" "CMakeFiles/advEx6.dir/timeseries.cpp.o.d"
   )
 
 # Targets to which this target links.

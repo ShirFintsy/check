@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/shir/Documents/advenced_programing/ex6/.
+CXX_INCLUDES = -I/home/ohad/CLionProjects/check/.
 
 CXX_FLAGS =  -pthread -g -std=gnu++14
 

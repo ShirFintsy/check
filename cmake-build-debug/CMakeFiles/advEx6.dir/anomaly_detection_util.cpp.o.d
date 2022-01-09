@@ -1,17 +1,17 @@
 CMakeFiles/advEx6.dir/anomaly_detection_util.cpp.o: \
- /home/shir/Documents/advenced_programing/ex6/anomaly_detection_util.cpp \
- /usr/include/stdc-predef.h /usr/include/c++/9/math.h \
- /usr/include/c++/9/cmath \
- /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
- /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
+ /home/ohad/CLionProjects/check/anomaly_detection_util.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/10/math.h \
+ /usr/include/c++/10/cmath \
+ /usr/include/x86_64-linux-gnu/c++/10/bits/c++config.h \
+ /usr/include/x86_64-linux-gnu/c++/10/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
- /usr/include/x86_64-linux-gnu/c++/9/bits/cpu_defines.h \
- /usr/include/c++/9/bits/cpp_type_traits.h \
- /usr/include/c++/9/ext/type_traits.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/c++/10/bits/cpu_defines.h \
+ /usr/include/c++/10/bits/cpp_type_traits.h \
+ /usr/include/c++/10/ext/type_traits.h /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/timesize.h \
@@ -28,8 +28,8 @@ CMakeFiles/advEx6.dir/anomaly_detection_util.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /usr/include/c++/9/bits/std_abs.h /usr/include/stdlib.h \
- /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \
+ /usr/include/c++/10/bits/std_abs.h /usr/include/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/10/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
@@ -56,9 +56,9 @@ CMakeFiles/advEx6.dir/anomaly_detection_util.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /home/shir/Documents/advenced_programing/ex6/anomaly_detection_util.h \
- /usr/include/c++/9/cstdio /usr/include/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
+ /home/ohad/CLionProjects/check/anomaly_detection_util.h \
+ /usr/include/c++/10/cstdio /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/10/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
@@ -66,5 +66,4 @@ CMakeFiles/advEx6.dir/anomaly_detection_util.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
- /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /usr/include/x86_64-linux-gnu/bits/sys_errlist.h
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
