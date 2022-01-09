@@ -79,7 +79,6 @@ class Server {
     struct sockaddr_in clientAddr = {0};
     bool in_procces;
 
-	// you may add data members
 
 public:
 	Server(int port) throw (const char*);
